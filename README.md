@@ -1,2 +1,20 @@
-# Credit-scoring
-ML project focuses on predicting the level of financial risk of companies. It can be useful for banks for the purpose of assessment of financial standing  and credit risks of companies. 
+# Кредитный скоринг
+
+ML проект, который позволяет предсказать уровень финансового риска компании с использованием логистической регрессии.
+
+## Мотивация
+
+Проект может быть полезен для оценки финансового состояния компаний и принятия решений о сотрудничестве / предоставлении банковских продуктов (кредиты, документарные продукты и прочее).
+
+## Данные
+
+Данные представляют собой выборку из системы [СПАРК (ИНТЕРФАКС)](https://spark-interfax.ru/features).
+
+## Требования
+
+* [Google Colab](https://colab.research.google.com/);
+* Pandas;
+* Numpy;
+* Matplotlib;
+* Seaborn;
+* Scikit learn.
